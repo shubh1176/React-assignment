@@ -49,6 +49,6 @@ Make sure you have the following software installed:
 This will start the application on localhost.
 
 
-
+Direct access: https://course-application-drab.vercel.app/
 
 
