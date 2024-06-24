@@ -1,0 +1,45 @@
+.student-dashboard {
+    padding: 20px;
+  }
+  
+  .student-dashboard h2 {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  .course-card {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin: 10px 0;
+    overflow: hidden;
+    display: flex;
+    transition: transform 0.2s;
+  }
+  
+  .course-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .course-thumbnail {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+  }
+  
+  .course-content {
+    padding: 15px;
+    flex-grow: 1;
+  }
+  
+  .course-content h3 {
+    font-size: 1.5em;
+    margin: 0;
+  }
+  
+  .course-content p {
+    color: #555;
+    margin: 10px 0;
+  }
+  

@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.MuiDrawer-paper {
+  background-color: #f7f7f7;
+}
+
+.MuiAppBar-root {
+  background-color: #1976d2;
+}
+
+.MuiButton-containedPrimary {
+  background-color: #1976d2;
+}
+
+.MuiButton-outlined {
+  color: #1976d2;
+  border-color: #1976d2;
+}
+
+.MuiButton-outlined:hover {
+  border-color: #115293;
+  background-color: rgba(25, 118, 210, 0.04);
+}
+
+.course-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 20px;
+}
