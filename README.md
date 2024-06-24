@@ -24,7 +24,6 @@ This is a Course Management Application built with React and Redux. The applicat
 - **Redux**: State management library.
 - **Redux Toolkit**: Official, recommended way to write Redux logic.
 - **React Router**: Library for routing in React applications.
-- **Tailwind CSS**: Utility-first CSS framework for styling.
 
 ## Getting Started
 
@@ -48,5 +47,8 @@ Make sure you have the following software installed:
    ```bash
    npm run dev
 This will start the application on localhost.
+
+
+
 
 
