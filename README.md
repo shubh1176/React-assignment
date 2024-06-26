@@ -39,7 +39,7 @@ Make sure you have the following software installed:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/shubh1176/React-assignment.git
-   cd course-app
+   cd courses-app
 2. **Install dependencies:**:
    ```bash
    npm install
